@@ -1,5 +1,5 @@
 # Ice Stack lib
-ICE Stack lib is a Open Source C library to help in Stack creation and work(push,pop and list custom elements).
+Open Source Stack library implemented using singly linked list, you can carry your custom data...
 
 
 First step, understand before run
@@ -24,7 +24,7 @@ $ cat src/main.c
 ```
 
 look this following:
-```lang=c
+```c
 
 #include <stdio.h>
 #include <stdlib.h>
